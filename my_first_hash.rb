@@ -29,7 +29,7 @@ end
 
 def adding
   shipping_manifest = shipping_manifest["oil_paintings"]
-                  
+
   # add 2 muskets to the shipping_manifest hash below
 
 
