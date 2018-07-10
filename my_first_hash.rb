@@ -14,9 +14,6 @@ old_fashioned_things = {
   "oil painting" => 3
 }
  
-first_printing = {
-  "Moby Dick" => 10000
-}
 end
 
 def retrieval
