@@ -1,16 +1,22 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
+  new_things = {
+  "lasers" => 5,
+  "spaceships" => 2,
+  "laser spaceships" => 3
+}
 end
 
 
 def shipping_manifest
-  # set a variable called `the_manifest`, equal to a hash
-  # fill that hash with key/value pairs that describe the following information: 
-  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
-
-
+old_fashioned_things = {
+  "whale bone corset" => 5,
+  "porcelain vase" => 2,
+  "oil painting" => 3
+}
+ 
+first_printing = {
+  "Moby Dick" => 10000
+}
 end
 
 def retrieval
