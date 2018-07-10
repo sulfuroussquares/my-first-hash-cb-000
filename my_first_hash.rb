@@ -13,7 +13,7 @@ old_fashioned_things = {
   "porcelain vases" => 2,
   "oil paintings" => 3
 }
- 
+
 end
 
 def retrieval
